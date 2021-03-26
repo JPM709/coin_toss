@@ -7,5 +7,6 @@ public class Main {
         Coin coin = new Coin();
         coin.flip();
         System.out.println(Coin.checkStatus());
+
     }
 }
